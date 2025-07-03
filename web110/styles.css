@@ -1,14 +1,15 @@
 body {
-  background-color: pink;
+  background-color: beige;
+  margin: 50px;
 }
 h1 {
-  color: wine;
+  color: brown;
   font-family: verdana;
-  font-size: 300%;
+  font-size: 32px;
 }
 p {
   color: wine;
   font-family: arial;
-  font-size: 160%;
+  font-size: 16px;
   margin: 50px;
 }
