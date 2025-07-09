@@ -7,6 +7,11 @@ h1 {
   font-family: verdana;
   font-size: 32px;
 }
+h2 {
+  color: brown;
+  font-family: arial;
+  font-size: 24px;
+}
 p {
   color: wine;
   font-family: arial;
