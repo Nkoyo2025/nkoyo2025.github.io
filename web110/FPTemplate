@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1></h1>
+    <p></p>
+    
+    <a href="web110">
+      <img src="images/Headphone lady.jpg" alt="Headphone Lady" style="width:500px;height:600px;">
+      </a>
+      
+      <iframe 
+  src="https://www.youtube.com/embed/bWPMSSsVdPk" 
+  width="560" 
+  height="315" 
+  title="Learn HTML in 12 Minutes" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+    
+<h2>Audio Element - </h2>
+    
+    <p>Click on the play button to play a sound:</p>
+
+    <audio controls>
+  <source src="audio/rain and birds.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+    <h2>The Video Element - Nature/ Waterfall.</h2>
+    
+    <p>Click on the play button to play the video:</p>
+
+
+    <video controls width="640" height="360">
+  <source src="video/nature.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+  </body>
+</html>
